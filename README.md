@@ -5,6 +5,13 @@
 
 </div>
 
+<div align="center">
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17615282.svg)](https://doi.org/10.5281/zenodo.17615282)
+
+</div>
+
+
 This repository contains the full text, PDF, and associated materials for:
 
 **Slade, T. (2025). _The Cosmological Consistency Act of 1915: A Formal Governance Analysis (Feynman-Protected Edition)._**
