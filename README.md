@@ -17,12 +17,11 @@ The Feynman-Protected Edition includes a per-page header (“DO NOT LET FEYNMAN 
 
 ---
 <pre>
-## Contents
-
-/
-├── CCA1915_Final_With_Feynman_Header.pdf
-├── zenodo.json
-└── README.md
+ROOT
+│
+├── [PDF]   CCA1915_Final_With_Feynman_Header.pdf
+├── [META]  zenodo.json
+└── [DOC]   README.md
 </pre>
 ---
 
