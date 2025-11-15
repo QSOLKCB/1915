@@ -16,14 +16,14 @@ The project combines:
 The Feynman-Protected Edition includes a per-page header (“DO NOT LET FEYNMAN SEE THIS”), retained for historical and memetic completeness.
 
 ---
-
+<pre>
 ## Contents
 
 /
 ├── CCA1915_Final_With_Feynman_Header.pdf
 ├── zenodo.json
 └── README.md
-
+</pre>
 ---
 
 ## Abstract
