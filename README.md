@@ -47,19 +47,6 @@ https://doi.org/xx.xxxx/zenodo.xxxxxxx
 
 ---
 
-## Zenodo Integration
-
-This repository is configured for Zenodo archiving.  
-Upon creation of a GitHub release, Zenodo will:
-
-1. Archive the exact snapshot  
-2. Assign a version DOI  
-3. Assign a concept DOI (persistent across future versions)
-
-The `zenodo.json` file in this repository contains the publication metadata required for DOI minting.
-
----
-
 ## License
 
 This work is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
