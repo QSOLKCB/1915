@@ -1,5 +1,9 @@
+<div align="center">
+
 # The Cosmological Consistency Act of 1915  
 ### A Formal Governance Analysis (Feynman-Protected Edition)
+
+</div>
 
 This repository contains the full text, PDF, and associated materials for:
 
